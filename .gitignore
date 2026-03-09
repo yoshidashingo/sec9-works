@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Work
+#output/
+
+# Logs
+logs/
+!logs/.gitkeep
+
+# MCP config (contains API keys)
+#.mcp.json
