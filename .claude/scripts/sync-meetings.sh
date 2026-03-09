@@ -22,7 +22,7 @@ export GOOGLE_WORKSPACE_CLI_CLIENT_SECRET
 
 # 最新ファイルの更新日時を取得（RFC3339形式）
 # meetings/内の.mdファイルのうちCLAUDE.md以外で最も新しいもの
-LATEST_FILE=$(find "$MEETINGS_DIR" -name '*.md' ! -name 'CLAUDE.md' -type f -exec stat -f '%m %N' {} + 2>/dev/null | sort -rn | head -1 | awk '{print $2}')
+LATEST_FILE=$(find "$MEETINGS_DIR" -name '*.md' ! -name 'CLAUDE.md' -type f -exec stat -f '%m %N' {} + 2>/dev/null | sort -rn | head -1 | sed 's/^[0-9]* //')
 
 if [ -n "$LATEST_FILE" ]; then
     # macOS stat: 秒→RFC3339
