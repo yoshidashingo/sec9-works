@@ -70,16 +70,10 @@ output/
   {YYYYMMDD}_{company}/aidlc-docs/      # クライアントワーク（アセスメント）
   {project-name}/                       # 個人PJ・執筆活動等
 
-meetings/                               # ミーティング議事録（下記ルール参照）
+meetings/                               # ミーティング議事録（meetings/CLAUDE.md 参照）
 
 scripts/                                # 自動同期スクリプト
 ```
-
-## ミーティング議事録の同期ルール
-
-`meetings/` ディレクトリには、Workspace CLI（`npx @anthropic-ai/workspace-cli`）で以下の Google Drive フォルダから更新されたミーティングをマークダウンファイルとして保存する。
-
-- **ソース**: https://drive.google.com/drive/folders/1GCMKVhvx0Lrz0H-lN9SyIebu01jEMIAq
 
 ## 言語
 
