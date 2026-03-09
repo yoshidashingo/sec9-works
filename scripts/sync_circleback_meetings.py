@@ -11,7 +11,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-OUTPUT_DIR = Path("/Users/shingo/github/assessment/output/sec9/meetings")
+OUTPUT_DIR = Path("/Users/shingo/Documents/GitHub/sec9-works/meetings")
 
 # All meeting IDs to process
 ALL_MEETING_IDS = [
