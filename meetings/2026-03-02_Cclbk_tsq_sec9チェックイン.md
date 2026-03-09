@@ -1,0 +1,23 @@
+﻿https://storage.googleapis.com/saved-meeting-recording.prod.circleback.ai/meeting_6958479.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=circleback-ai%40appspot.gserviceaccount.com%2F20260301%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260301T234214Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=724a389c684e727d118bee365a2b1c0f6b2896525bfcab47a64b9582b0d338dd2d2698c54c172244c9d68a281981c83dc00b14c0202f16e0787ed6dc96a8736745129c421ef487139a466e30976b8e963f084788a3925b492837d98d2c1034442d3ff8a1c6c0d953b54cc60a4f802917fff0888fd3d54772cb899a23c2f750c202c0587eae73a942c18bd5334376b8dd7b2c9e9c1424a92abb6663c929e2a804a0aeb835f51bc19a68ee58436d718dfc7892e764fb2feea83a547a68fe76630944a881cff3547e847ec979c102ecbd09dd41fa48439ff30c3dbb0c9af1d44d5133591330aff5d2b55e95d4fdb653439f117a40988116208f4e2e15d19e711a71
+
+
+#### Overview
+* YouTubeチャンネル検索機能のデモを実施し、指定したチャンネルの動画を取得してDBに保存できるようになった
+* Slack通知機能をミーティング中に追加し、ミドクゼロチャンネル用のWebhookを設定した
+* NotebookLMとの連携で動画要約をSlackに投稿する可能性を検討した
+
+
+#### YouTube動画検索機能のデモ
+* 前週にYouTubeチャンネル更新のデモを作成した
+* 新しいアクティビティとしてYouTube動画検索機能を追加した
+* DBテーブル設計にチャンネル名のカラムを追加した
+* プロンプトでチャンネルを指定し、例えばGoogleのチャンネルで今週の動画を取得できる
+* 取得したデータは最終的にDBに保存される
+* 真吾はNotebookLMに動画を入れて要約を作成できる可能性を指摘した
+
+
+#### Slack通知機能の追加
+* 現在の機能はテーブルへのデータ保存とメール通知のみ
+* 真吾はNotebookLMで要約してSlackに投稿したいと提案した
+* プロンプトの最後にSlack通知URLを追加することで実装可能
+* ミーティング中にミドクゼロチャンネルのWebhookを用意して設定した

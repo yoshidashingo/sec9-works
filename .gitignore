@@ -22,3 +22,7 @@ logs/
 
 # Google Workspace CLI config (contains OAuth secrets)
 .gws/
+
+# Environment files (contains secrets)
+.env*
+!.env.example
