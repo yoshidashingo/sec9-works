@@ -1,0 +1,208 @@
+﻿https://tldv.io/app/meetings/69c07b6bdbc75500136a73db
+
+
+[00:02](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=2) 真吾: そうだ ね 俺 は 何 も やって ない 本当 に プ ロ グ ラ マ ー の 仕 事 は ど ん ど ん ど んな く なる 可能 性 が あります そうだ ね 少 なく と も 夏 ぐ らい には 僕 ら に と って は 嫌 なく なる かな 話 に 話 で
+
+
+[00:26](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=26) 湯: さ あ、 レ ビ ュ ー は しか い ら なく なる ね
+
+
+[00:30](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=30) 真吾: えー っと
+
+
+[00:37](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=37) 湯: デ ビ ュ ー する 前 に まず 他 の こと を ちょっと 共 有 した い んです か 前 まだ 共 有 して ない んです か まず ワ ー カ ー OS ですね も と も と は ク ラ ック だ けど
+
+
+[00:54](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=54) 真吾: ワ ー カ ー OS まで ちょっと ニ フ ァ ク タ リ ング しました 今 は もし
+
+
+[01:02](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=62) 湯: 画 面 に 入 る と まず こんな 感じ です ワ ー ク オ ー エ ス の 画 面 に 移 動 します
+
+
+[01:08](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=68) 真吾: なるほど 自 分 の メ ール
+
+
+[01:10](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=70) 湯: なんだ ろう ね 今 の ところ ただ なんだ けど や る ほど ですか うん いい じゃ ん
+
+
+[01:28](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=88) 湯: 今 は 無 料 で 利 用 でき る んだ けど
+
+
+[01:36](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=96) 真吾: そうですね もし デ ブ 環 境 に デ プ ロ イ した い 場 合 は この デ ブ 環 境 ですね この 場 合 は ちょっと 問題 が あります
+
+
+[01:49](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=109) 湯: な ぜ か という と この ワ ー ク ウ ェ ス の 中 には 2 つ 環 境 が ある んです が プ ロ ダ ク ショ ン 環 境 は これ お 支 払 い し ない と お 金 払 わ ない と ク リ ック でき ない です
+
+
+[02:04](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=124) 真吾: これ、 お 金 払 った ら、 こ この ID と キ ー を も ら った ら、 す ぐ 利 用 で きます。
+
+
+[02:14](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=134) 湯: 新 しい ID と キ ー。 そう いう もの な の ね。 そう なん ですね。 だから、 デ ブ 環 境 に 行 き たい けど、 ちょっと ここ は でき ない です。 お 金 払 わ ない と い け ない。
+
+
+[02:33](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=153) 湯: うん、 これは 問題 です。
+
+
+[02:35](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=155) 真吾: 問題 だ ね。
+
+
+[02:43](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=163) 真吾: 俺 から も 画 面 見 える よう な、 それ も ロ グ イ ン でき る よう な ロ グ イ ン で きます ロ カ ル 開 発 環 境 だ と ロ グ イ ン で きます
+
+
+[03:11](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=191) 湯: や っぱ ク ラ ー ク よ り いい かな わか ん ない から 別 に ド ッ グ でも っていう 感じ だ よ な ク ラ ー ク でも いい し
+
+
+[03:40](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=220) 真吾: オ ー ス ボ ロ でも 良 い し、 何 でも 良 い 状 態 だ よね
+
+
+[03:45](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=225) 湯: じゃあ、 ワ ー ク OS の こと を 一 旦 ブ ラ ンチ を 作 った けど、 認 証 の 方 が また ク ラ ック の 方 に 戻 ります
+
+
+[03:57](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=237) 真吾: 今 の ところ ク ラ ック で 進 む と こ は、 ク ラ ック だ った ら 一 気 に 完全 に 動 く んだ も ん ね
+
+
+[04:09](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=249) 湯: ブ ラ ンチ は 残 して い け ない? そうですね ブ ラ ンチ 残 ります
+
+
+[04:19](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=259) 湯: もう 一個 新 宿 なんです が JA コ ンパ イ ロ ット の 方 に まず これ テ スト を 追 加 しました こ この 中 には
+
+
+[04:32](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=272) 真吾: G ith ub ア ク ショ ン の 中 には テ スト 前 に まず N int を 実 行 します Ty pe Script エ ラ ー が ある か どう か を 確 認 します 確 認 して から テ スト を 実 行 します これは 前 回 の ミ ーテ ィ ング で
+
+
+[04:53](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=293) 湯: 吉 田 さん から 指 摘 が あり ました こ この プ ロ ジ ェ ク ト は テ スト が ない です と 言 わ れ ました ね はい あの 自 動 テ スト
+
+
+[05:05](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=305) 真吾: なので 今回 は これ 追 加 しました あの 人 と と 自 動 テ スト
+
+
+[05:11](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=311) 湯: なので これ 今回 これ から あります 表示 します 毎 回 もう 1 個 は 8
+
+
+[05:30](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=330) 湯: ミ ド ク ゼ ロ の 方、 吉 田 さん の PR、 ここ 1 個 ず つ ロ ー カ ル 環 境 で 確 認 して、 ここ で 書 き ました。 ありがとうございます。 あと 2 つ が ある んです か これ もう 忘 れ ました それは 俺 じゃない デ ィ ペ ンダ ーボ ッ ツ だ も んな セ キ ュ リ テ ィ です
+
+
+[05:59](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=359) 真吾: もう 一 つ の プ ル リ ック は 俺 だ わ テ スト カ バ レ ッ ジ
+
+
+[06:11](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=371) 真吾: これ ですね そうですね
+
+
+[06:15](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=375) 湯: ち な み に こちら の PR なんです 吉 田 さん 作 った PR なん ですか これ D LC で ル ール で 作 りました か
+
+
+[06:27](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=387) 真吾: や りました ね 全部 D LC の ル ール の 上 で 作 りました そうですね
+
+
+[06:40](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=400) 真吾: や ばい っ す よね すごい です 全 然 合 って ます や ばい っ す よ 今 週 末 も さ リ ン ク の 方 の ボ ット を ず っと 作 って た んだ けど ク ロ ード コ ード が ね ど ん ど ん 頭 良 く な って い っちゃ ってる はい はい はい 怖 い です 怖 い です 怖 い という か もう 終 わ り だ ね 人 間 お しま い さ よ なら って 感じ マ ジ で そうだ ね 夏 まで どう し よう 年 末 まで もう どう し よう 年 末 は もう
+
+
+[07:30](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=450) 湯: 仕 事 探 さ ない と な ぁ や ばい よ そう 超 や ばい です 自 分 も 怖 い 怖 い かな
+
+
+[07:36](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=456) 真吾: サ イ ダ ー ス どう し よう 何 も AI 使 って ない み んな この コ ート も 使 って ない それ は どう どう し よう サ イ ズ だから 何 か 考 え た 方 が いい よ そうですね
+
+
+[07:55](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=475) 湯: 基本 は AI にな っちゃ う
+
+
+[07:58](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=478) 真吾: もう 見 えて る ね 決 ま ってる 決 ま ってる の に 何 もし ない のは 自 分 の 人 生 を 捨 て て る よう で 顔 見 れない ですか そうですね まず い ですね
+
+
+[08:24](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=504) 湯: だから、 不 安 ですね そうだ、 あと さ、 新 着 を 見 ろ く で しょ はい これ ちょっと 動 作
+
+
+[08:51](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=531) 真吾: ミ ド ク ゼ ロ の 動 作 ですか ミ ド ク ゼ ロ と G エ コ パ イ ロ ット はい
+
+
+[09:21](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=561) 湯: あれ? dev. か
+
+
+[09:43](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=583) 真吾: 未 読 ゼ ロ の ユ ー ザ ー 認 証 って これは Go ogle 直 で やって る んだ っ け Go ogle です
+
+
+[09:51](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=591) 湯: Go ogle ロ グ イ ン し ない と い け ない 直接 だ ね ク ラ ー ク とか ワ ー ク オ ウ ェ ス を 使 わ ず だ も ん ね そう 使 わ ず です
+
+
+[10:06](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=606) 湯: まあ ちょっと こう い った プ ロ ダ ク ト を ちゃん と 作 って リ リ ー ス して いく 形 に する か
+
+
+[10:12](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=612) 真吾: あれ これ リ リ ー ス は した んだ っ け
+
+
+[10:15](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=615) 湯: ミ ノ ク ゼ ロ ですか うん
+
+
+[10:36](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=636) 真吾: リ リ ー ス した ら 自 動、 リ リ ー ス じゃない や、 プ ル リ ク マ ージ した ら 自 動 デ プ ロ イ だ った っ け あー、 デ プ ロ イ 失 敗 しました あ、 そう なんだ
+
+
+[10:55](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=655) 湯: 分 か りました。 ちょっと 対 応 が 必 要 です。 修 正 して 対 応 で デ プ ロ イ、 と り あ え ず デ プ ロ イ まで ちょっと 対 応 が 必 要 です。
+
+
+[11:20](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=680) 真吾: 自 動 テ スト の PR の 中 に 別 の ライ ブ ラ リ 追 加 した けど
+
+
+[11:26](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=686) 湯: その ライ ブ ラ リ は Re act ライ ブ ラ リ ちょっと コ ンフ リ ク ト が あります なので 解 消 し ない と じゃあ それ も や り ましょう か
+
+
+[11:50](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=710) 真吾: はい はい じゃあ その ぐ らい かな 対 応 でも 自 動 テ スト は PR まだ マ ジ して ない ですね 吉 田 さん 作 った 自 動 テ スト
+
+
+[12:15](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=735) 湯: 他 も テ スト を 多 分 使 った か もし れない
+
+
+[12:21](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=741) 真吾: 以上 後 で 確 認 します
+
+
+[12:29](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=749) 真吾: もし、 あ いや、 わ から ない
+
+
+[13:01](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=781) 真吾: や っぱ り まだ あれ だ な ライ バ ル の メ ール の 名 前 なんだ った っ け
+
+
+[13:43](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=823) 真吾: ライ ブ ラ リ ー の メ ール ライ バ ル ヒ ュ ー マ ンメ ール だ っ け なんだ っ け ス ーパ ーヒ ュ ー マ ン か ス ーパ ーヒ ュ ー マ ン の 名 前 忘 れ ちゃ った
+
+
+[14:03](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=843) 真吾: そうですね 前 は あれ を 参 考 して ちょっと 新 しい 機 能 を 追 加 しました
+
+
+[14:15](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=855) 湯: ス ーパ ーヒ ュ ー マ ン に まだ ちょっと
+
+
+[14:33](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=873) 真吾: どう やって 企 画 します か ス ーパ ーヒ ュ ー マ ン に 勝 て る メ ール ク ライ ア ント 要 望 を 確 認 し ましょう か 何 を ど んな 機 能 が 欲 しい
+
+
+[15:16](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=916) 湯: これ を 確 認 して から 対 応 します
+
+
+[15:26](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=926) 湯: この 確 認 調 べ る のは エ ア に 任 せ る ちゃん と 確 認 して ください どう やって ひ と ぱ ひ も ん 超 える デ ィ プ シ ー デ ィ プ サ ーチ ちょっと じ めて
+
+
+[15:53](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=953) 湯: これは ミ ト ク ゼ ノ の 機 能 これは ス ーパ ーヒ ュ ー マ ン の 機 能 公 式 サ イ ト ちゃん と 調 べ て して ス ーパ ーヒ ュ ー マ ン を 超 える 機 能 を 教 えて ください みたい な デ ィ ップ ス そう ご視聴ありがとうございました
+
+
+[16:19](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=979) 真吾: 未 返 信 の 重要 な メ ール の 判 断 基 準 とか も
+
+
+[18:39](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1119) 湯: この ま ま じゃ ダ メ だ 思 い 切 って 作 り 直 しか ない AI 部分 2 つ ある んだ よね
+
+
+[18:44](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1124) 真吾: AI 部分 の 機 能 性 と や っぱ ス ーパ ーヒ ュ ー マ ン の 体 験 が 気 持 ち いい から さ 気 持 ち いい って 重要 じゃない
+
+
+[19:07](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1147) 湯: はい 重要 です なん で こんな 気 持 ち いい んだ ろう な
+
+
+[19:16](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1156) 真吾: 一 旦 今日は 良 し と し ましょう
+
+
+[20:45](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1245) 真吾: はい わか りました デ プ ロ イ が 失 敗 して いる ところ だけ よろしく お願いします はい あと JA ク ワ イ ル ド の 方 は また ク ラ ック の 方 に 戻 ります ね
+
+
+[20:59](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1259) 湯: わか りました 一 応 見て お く か
+
+
+[21:10](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1270) 真吾: パ イ ロ ット の
+
+
+[21:26](https://tldv.io/app/meetings/69c07b6bdbc75500136a73db?t=1286) 真吾: はい じゃあ また 引 き 続 き よろしく お願いします ね はい では では はい お 疲 れ 様 です 失 礼 します 失 礼 します
